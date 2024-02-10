@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-- <a href="https://bELSON-Code.github.io" target="_blank"></a>
+- <a href="https://bELSON-Code.github.io" target="_blank">https://bELSON-Code.github.io</a>
 - https://www.linkedin.com/in/logan-crabtree-62b7b2205/
 
 My name is Logan Crabtree and I have been in the cyber field for almost a year now. 
